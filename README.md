@@ -153,8 +153,8 @@ LIMIT 25
 
 Here's a breakdown of the results for top paying skills for Data Analysts:
 - **Big Data & ML Tools:** Skills in PySpark, Couchbase, DataRobot, and Python libraries like Pandas and NumPy are highly valued for their role in advanced data processing and predictive modeling.
--**Dev & Deployment Tools:** Proficiency in GitLab, Kubernetes, and Airflow shows strong earning potential, highlighting the value of automation and pipeline management.
--**Cloud Platforms:** Experience with Elasticsearch, Databricks, and GCP reflects the demand for cloud-based analytics skills that significantly boost salaries.
+- **Dev & Deployment Tools:** Proficiency in GitLab, Kubernetes, and Airflow shows strong earning potential, highlighting the value of automation and pipeline management.
+- **Cloud Platforms:** Experience with Elasticsearch, Databricks, and GCP reflects the demand for cloud-based analytics skills that significantly boost salaries.
 
 
 | Skill       | Average Salary (USD) |

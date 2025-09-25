@@ -72,3 +72,4 @@ ORDER BY
     avg_salary DESC,
     demand_skill_count
 LIMIT 25
+
